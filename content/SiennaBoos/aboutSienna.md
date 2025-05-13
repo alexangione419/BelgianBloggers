@@ -14,4 +14,4 @@ showAuthorsBadges: false
 
 Hi, my name is **Sienna Boos!**
 
-I am a rising sophomore at Northeastern University. I am currently on a Dialogue of Civilizations in Leuven, Belgium.
+I am a rising sophomore at Northeastern University. I am currently on a Dialogue of Civilizations in Leuven, Belgium, studying data and software in international government and politics.
