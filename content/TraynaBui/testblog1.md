@@ -6,7 +6,7 @@ description: "hey"
 slug: "abouttrayna"
 tags: ["authors", "config", "docs"]
 authors: 
-    -"traynabui"
+    -"trayna_bui"
 showAuthorsBadges : false
 ---
 # About Trayna
