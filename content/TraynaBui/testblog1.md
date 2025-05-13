@@ -6,9 +6,8 @@ description: "hey"
 slug: "abouttrayna"
 tags: ["authors", "config", "docs"]
 authors: 
-    -"trayna_bui"
+    - "traynabui"
 showAuthorsBadges : false
 ---
 # About Trayna
-Hi, I am trayna and i absolertly love db. 
-
+Hi, I am trayna and i love db more than you. 
