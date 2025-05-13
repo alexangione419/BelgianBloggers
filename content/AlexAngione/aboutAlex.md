@@ -6,7 +6,7 @@ description: "Another test"
 slug: "aboutAlex"
 tags: ["authors", "config", "docs"]
 authors:
-  - "alex_angione.json"
+  - "alex_angione"
 showAuthorsBadges : false
 ---
 
