@@ -6,7 +6,7 @@ description: "Sienna!"
 slug: "aboutsienna"
 tags: ["authors", "configs", "docs"]
 authors:
-  - "siennaboos"
+  - "sienna_boos"
 showAuthorsBadges: false
 ---
 
