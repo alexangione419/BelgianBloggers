@@ -49,7 +49,7 @@ With our app, we hope to streamline MEP data by providing clear insights for our
 
 ### Persona Description:
 
-**Camila Romero** is a political journalist from Spain who specializes in writing about the EU government, notably changes and conflicts within it. She is 30 years old and graduated from Universidad de Barcelona. She is very knowledgeable about EU politics and party dynamics.
+**Camila Romero** is a 30 year old political journalist from Spain who specializes in writing about the EU government, notably changes and conflicts within it. She graduated from Universidad de Barcelona and is very knowledgeable about EU politics and party dynamics.
 
 ### Story:
 
@@ -67,7 +67,7 @@ Because there are so many votes that happen in Parliament, Camila wishes she had
 
 ### Persona Description:
 
-Greg Gerborg is 23 years old. He grew up in Switzerland his whole life, and he just moved to the EU. In college, Greg studied mechanical engineering at the University of Zurich, so he does not know much about politics. He cares a lot about science, though, and he doesn’t want to lose funding for all of his cool engineering projects. 
+**Greg Gerborg** is 23 years old. He grew up in Switzerland his whole life, and he just moved to the EU. In college, Greg studied mechanical engineering at the University of Zurich, so he does not know much about politics. He cares a lot about science, though, and he doesn’t want to lose funding for all of his cool engineering projects. 
 
 ### Story:
 
