@@ -10,4 +10,4 @@ authors:
 showAuthorsBadges : false
 ---
 # About Trayna
-Hi, I am trayna and i love db more than you. 
+I’m Trayna Bui, a Data Science and Finance student at Northeastern University. I’m passionate about making data useful and accessible, especially in finance and civic tech. 
