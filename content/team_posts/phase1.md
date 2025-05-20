@@ -96,7 +96,7 @@ With this information, we will be able to
 
 
 Note: This API is under development and experimental. If winds up being unreliable, all of the data is available to download seperately. 
-![alt text](successfulHowTheyVoteCall.png)
+![image](successfulHowTheyVoteCall.png)
 
 
 
@@ -109,4 +109,4 @@ This information will primarily be used to
 - Access in depth information about each MEP to be used for individual analysis
 
 
-![alt text](successfulMEPCall.png)
+![image](successfulMEPCall.png)
