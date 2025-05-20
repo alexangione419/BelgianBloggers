@@ -1,5 +1,5 @@
 ---
-title: "trayna bui"
+title: "Week 1: Blog Post"
 date: 2025-05-20
 draft: false 
 description: "hey"
