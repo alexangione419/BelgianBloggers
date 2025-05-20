@@ -12,4 +12,4 @@ showAuthorsBadges : false
 
 # About Emily Moy
 
-This is a test of my new blog.
+Hi, I'm Emily and I'm a rising third year Data Science and Behavioral Neuroscience major at Northeastern. I studied abroad in Dublin, Ireland during my first semester of college, so it's safe to say I love traveling and exploring new places! Throughout my time in Belgium, I'm looking forward to honing my technical skills, learning more about international politics, and soaking up the Belgian culture.
