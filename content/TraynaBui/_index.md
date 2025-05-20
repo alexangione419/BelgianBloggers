@@ -1,4 +1,4 @@
 ---
-title: "trayna bui"
+title: "Trayna Bui"
 ---
-Hi, I am Trayna!
+Hi, I am Trayna! Read more about me ⬇️

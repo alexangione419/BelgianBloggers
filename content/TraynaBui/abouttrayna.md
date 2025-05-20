@@ -1,5 +1,5 @@
 ---
-title: "trayna bui"
+title: "About Me!"
 date: 2025-05-13
 draft: false 
 description: "hey"
