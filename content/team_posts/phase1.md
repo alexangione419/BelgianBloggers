@@ -1,6 +1,6 @@
 ---
 title: "Project - Phase I"
-date: 2024-05-14
+date: 2025-05-19
 draft: false
 description: "Our Idea"
 slug: "phase1post"
@@ -49,7 +49,7 @@ With our app, we hope to streamline MEP data by providing clear insights for our
 
 ### Persona Description:
 
-**Camila Romero** is a political journalist from Spain who specializes in writing about the EU government, notably changes and conflicts within it. She is 30 years old and graduated from Universidad de Barcelona. She is very knowledgeable about EU politics and party dynamics.
+**Camila Romero** is a 30 year old political journalist from Spain who specializes in writing about the EU government, notably changes and conflicts within it. She graduated from Universidad de Barcelona and is very knowledgeable about EU politics and party dynamics.
 
 ### Story:
 
@@ -68,7 +68,7 @@ Because there are so many votes that happen in Parliament, Camila wishes she had
 
 ### Persona Description:
 
-Greg Gerborg is 23 years old. He grew up in Switzerland and lived there for his whole life, but he just moved to the EU. In college, Greg studied mechanical engineering at the University of Zurich, and he possesses sparse knowledge of politics. He cares a lot about science, though, and he doesn’t want to lose funding for all of his cool engineering projects. 
+**Greg Gerborg** is 23 years old. He grew up in Switzerland and lived there for his whole life, but he just moved to the EU. In college, Greg studied mechanical engineering at the University of Zurich, and he possesses sparse knowledge of politics. He cares a lot about science, though, and he doesn’t want to lose funding for all of his cool engineering projects. 
 
 ### Story:
 
@@ -82,3 +82,32 @@ Greg is unsure of what MEPs he should vote for, so he would like to learn about 
 - "As a citizen, I want to know more about my country’s voter turnout to see how politically involved my country is."
 - "As a citizen, I want to know more about my party’s voter cohesion to see how unified my party is."
 
+
+# Candidate Data Sources
+
+## HowTheyVote.eu
+
+This data source serves as a record of how each Member of the European Parliment(MEP) voted on a given legisalture discussed at a given plenary session. 
+There exist records for 1962 distinct legislature, each with the associated 751/705 (pre/post Brexit) MEP votes. 
+Each vote consists of the MEP's name, part affiliation, desicion, and nationality. 
+
+With this information, we will be able to 
+- Compute cohesion metrics (percentage of party “for” votes).
+- Provide party affiliation recommendations
+
+
+Note: This API is under development and experimental. If winds up being unreliable, all of the data is available to download seperately. 
+![image](successfulHowTheyVoteCall.png)
+
+
+
+## European Parliment Open Data API
+
+This data source is the EP’s official API, suppling comprehensive information on MEPs, corporate bodies, events, meetings, and more.
+
+
+This information will primarily be used to
+- Access in depth information about each MEP to be used for individual analysis
+
+
+![image](successfulMEPCall.png)
