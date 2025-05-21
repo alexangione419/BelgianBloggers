@@ -16,6 +16,6 @@ This dialogue has already progressed how I perceive AI’s growing usage and my 
 
 Hearing these speakers has reaffirmed my sense of purpose as I move forward in my career, and I have enjoyed getting to satisfy my intellectual curiosity while also visiting some beautiful places and meeting some great people.
 
-![Leuven Town Hall](/leuven_town_hall.jpg)
+![Leuven Town Hall](leuven_town_hall.jpg)
 
 For the Phase I deliverable, I proposed the howtheyvote.eu data source and came up with the idea to center our project around MEP voting patterns and party cohesion. I also wrote the persona and stories for Camila, the political journalist, and edited the other personas. Additionally, I helped write the description with my teammates and formatted the group post in Markdown.
