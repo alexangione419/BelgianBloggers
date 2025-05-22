@@ -97,8 +97,8 @@ With this information, we will be able to
 
 
 Note: This API is under development and experimental. If winds up being unreliable, all of the data is available to download seperately. 
-![image](successfulHowTheyVoteCall.jpeg)
 
+![image](successfulHowTheyVoteCall.jpeg)
 
 
 ## European Parliment Open Data API
@@ -111,3 +111,4 @@ This information will primarily be used to
 
 
 ![image](successfulMEPCall.jpeg)
+
