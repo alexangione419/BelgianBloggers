@@ -16,7 +16,7 @@ showAuthorsBadges: false
 
 # Project Updates
 
-In our developement on phase two, we made some updates to our user stories. We took in feedback on making our stories more actionable items, and fleshed out the features they represent in order to differentiate each persona more. The new user stories are as follows. 
+In our developement on phase two, we made some updates to our user stories. We took in feedback on making our stories more actionable, and fleshed out the features they represent in order to differentiate each persona. The new user stories are as follows. 
 
 ## Party Leader: Seeing Unity Within Your Party
 
@@ -42,7 +42,6 @@ In our developement on phase two, we made some updates to our user stories. We t
 ### Persona Description:
 
 **Camila Romero** is a political journalist from Spain who specializes in writing about the EU government, notably changes and conflicts within it. She is 30 years old and graduated from Universidad de Barcelona. She is very knowledgeable about EU politics and party dynamics. 
-
 
 ### Story:
 
@@ -86,23 +85,23 @@ Greg is unsure of what MEPs he should vote for, so he would like to learn about 
 
 ## Party Leader Data Model 
 
-![image](partyLeader.jpeg)
+![image](partyLeader.png)
 
 ## Political Journalist Data Model
 
-![image](politicalJournalist.jpeg)
+![image](politicalJournalist.png)
 
 ## Citizen Data Model
 
-![image](citizen.jpeg)
+![image](citizen.png)
 
 ## Global Data Model
 
-![image](gloabl.jpeg)
+![image](gloabl.png)
 
 ## ER Diagram
 
-![image](ERDiagram.jpeg)
+![image](ERDiagram.png)
 
 ## First Pass SQL DDL
 
