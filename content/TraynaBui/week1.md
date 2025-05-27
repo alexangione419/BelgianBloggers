@@ -1,8 +1,8 @@
 ---
-title: "Week 1: Blog Post"
+title: "Phase I"
 date: 2025-05-20
 draft: false 
-description: "hey"
+description: "Read More"
 slug: "week1"
 tags: ["authors", "config", "docs"]
 authors: 

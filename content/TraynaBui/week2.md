@@ -2,7 +2,7 @@
 title: "Phase II"
 date: 2025-05-28
 draft: false 
-description: "Read more"
+description: "Read more about Phase II"
 slug: "week2"
 tags: ["authors", "config", "docs"]
 authors: 
