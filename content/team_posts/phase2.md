@@ -178,3 +178,11 @@ Greg is unsure of what MEPs he should vote for, so he would like to learn about 
   );
 
 ```
+### Wireframes
+
+![image](citizien.jpeg)
+*Citizen: Designed to guide users like Greg through key features such as MEP profiles, party overviews, and country comparisons to help inform relocation decisions based on political alignment.*
+
+
+![image](homepage_wireframe.jpeg)
+*Homepage: Designed to guide users personas and give an overview about how voting works in the EP*
