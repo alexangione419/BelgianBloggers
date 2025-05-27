@@ -85,23 +85,23 @@ Greg is unsure of what MEPs he should vote for, so he would like to learn about 
 
 ## Party Leader Data Model 
 
-![image](partyLeader.png)
+![image](partyLeader.jpeg)
 
 ## Political Journalist Data Model
 
-![image](politicalJournalist.png)
+![image](politicalJournalist.jpeg)
 
 ## Citizen Data Model
 
-![image](citizen.png)
+![image](citizen.jpeg)
 
 ## Global Data Model
 
-![image](gloabl.png)
+![image](gloabl.jpeg)
 
 ## ER Diagram
 
-![image](ERDiagram.png)
+![image](ERDiagram.jpeg)
 
 ## First Pass SQL DDL
 

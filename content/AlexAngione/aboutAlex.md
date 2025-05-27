@@ -12,6 +12,4 @@ showAuthorsBadges : false
 
 # Good Morning! 
 
-My name is Alex Angione. I am in Belgium. I like Software Engineering. 
-
- I am **not** Mark Fontenot. 
+My name is Alex Angione, a 4.25th year Computer Science student at Northeastern. 

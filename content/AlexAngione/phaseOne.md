@@ -2,7 +2,7 @@
 title: "Phase I Individual"
 date: 2025-05-20
 draft: false
-description: "Another test"
+description: "Phase one individual test"
 slug: "phaseOne"
 tags: ["authors", "config", "docs"]
 authors:
