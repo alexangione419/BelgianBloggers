@@ -12,3 +12,26 @@ authors:
   - "emilymoy"
 showAuthorsBadges: false
 ---
+
+
+## Data Models
+
+### Party Leader Data Model 
+
+![image](partyLeader.png)
+
+### Political Journalist Data Model
+
+![image](politicalJournalist.png)
+
+### Citizen Data Model
+
+![image](citizen.png)
+
+### Global Data Model
+
+![image](gloabl.png)
+
+### ER Diagram
+
+![image](ERDiagram.png)
