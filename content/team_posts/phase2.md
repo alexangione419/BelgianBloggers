@@ -13,7 +13,6 @@ authors:
 showAuthorsBadges: false
 ---
 
-
 # Project Updates
 
 In our developement on phase two, we made some updates to our user stories. We took in feedback on making our stories more actionable, and fleshed out the features they represent in order to differentiate each persona. The new user stories are as follows. 
@@ -70,7 +69,6 @@ Greg is unsure of what MEPs he should vote for, so he would like to learn about 
 - "As a citizen, I want to see a list of all the MEPs and their profiles to learn more about the MEPs views"
 - "As a citizen, I want to learn more about each party and what they stand for to learn about which one aligns most with my political beliefs."
 - "As a citizen, I want to know more about my country’s voter turnout to see how politically involved my country is."
-
 
 
 # Data Visualization
