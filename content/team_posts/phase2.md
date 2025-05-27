@@ -97,7 +97,7 @@ Greg is unsure of what MEPs he should vote for, so he would like to learn about 
 
 ## Global Data Model
 
-![image](gloabl.jpeg)
+![image](global.jpeg)
 
 ## ER Diagram
 
