@@ -3,7 +3,7 @@ title: "Phase II"
 date: 2025-05-28
 draft: false 
 description: "Read more about Phase II"
-slug: "week2"
+slug: "phaseII"
 tags: ["authors", "config", "docs"]
 authors: 
     - "traynabui"
