@@ -101,6 +101,7 @@ Greg is unsure of what MEPs he should vote for, so he would like to learn about 
 
 ![image](ERDiagram.jpeg)
 
+
 ## First Pass SQL DDL
 
 ```sql
