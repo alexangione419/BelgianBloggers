@@ -28,23 +28,23 @@ In our developement on phase two, we made some updates to our user stories. The 
 
 ### Party Leader Data Model 
 
-![image](partyLeader.jpeg)
+![image](/partyLeader.jpeg)
 
 ### Political Journalist Data Model
 
-![image](politicalJournalist.jpeg)
+![image](/politicalJournalist.jpeg)
 
 ### Citizen Data Model
 
-![image](citizen.jpeg)
+![image](/citizen.jpeg)
 
 ### Global Data Model
 
-![image](gloabl.jpeg)
+![image](/gloabl.jpeg)
 
 ### ER Diagram
 
-![image](ERDiagram.jpeg)
+![image](/ERDiagram.jpeg)
 
 ### First Pass SQL DDL
 
