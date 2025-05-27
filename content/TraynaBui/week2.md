@@ -1,19 +1,21 @@
 ---
-title: "Week 1: Blog Post"
-date: 2025-05-20
+title: "Phase II"
+date: 2025-05-28
 draft: false 
-description: "hey"
-slug: "week1"
+description: "Read more"
+slug: "week2"
 tags: ["authors", "config", "docs"]
 authors: 
     - "traynabui"
 showAuthorsBadges : false
 ---
-# Week One Blog Post
-Starting on May 12th, I spent a wonderful first week exploring and traveling in Belgium! By far and one of the most memorable experiences was exploring the Catholic churches of Leuven on the first day of our sightseeing tour. Before this trip, I had seen European churches primarily as architectural monuments or tourist attractions. But as I wandered through Leuven's historic Catholic churches—like St. Peter's Church in the city center. I was struck by their deep connection to the city's political, cultural, and educational history.
+# Phase II Individual Deliverable
+For Phase II, my contributions were as follows:
+	•	Developed the full pipeline to collect, clean, and process voting data from the HowTheyVote.eu API, resulting in three structured dataframes (mep_ref.csv, vote_id_ref.csv, heart_votes.csv) used throughout our application.
+	•	Helped design a draft of individualized MEP profile layout in Streamlit, including a dropdown selection tool and bar chart to visualize party loyalty vs. dissent.
+	•	Helped ideate and create the wireframes for the "citizen" & "homepage", prioritizing clarity, accessibility, and transparency in how political data is presented to non-expert users.
+	•	Participated in group design discussions to build user personas and drafted interface features such as watchlists and reference links tailored for political journalists, citizens, and advocacy groups.
+	•	Built the foundation for local and global data models to represent different stakeholders and how they interact with political information.
+	•	Contributed to drafting the team blog post to document and communicate our process, motivations, and outcomes.
 
-
-I was surprised to learn that these churches were not just places of worship; they once served as community centers, educational spaces, and even sites of scientific discovery. For example, I didn't realize that Leuven's churches had ties to the university and helped shape the city's intellectual life during the Middle Ages. Hearing how these buildings were damaged and rebuilt after events such as the First World War gave me a deeper appreciation for their role as symbols of resilience and identity.
-
-
-This trip completely changed my view of Catholic churches in Europe, not as static relics, but as evolving reflections of the communities that surround them. It made me even more curious about how public spaces, especially religious ones, contain stories about the city's past and present.
+This project has been a personally valuable experience. I found it rewarding to bridge data science with civic engagement and make complex political information more understandable. Overall, this week was a truly wonderful experience. My favorite part was visiting the NAM-IP computer museum in Namur. It was great to see the evolution of computers, especially the early machines that laid the foundation for what we do with data today. It made me think about the advancements in technology and the importance of keeping it accessible.
