@@ -81,7 +81,7 @@ Greg is unsure of what MEPs he should vote for, so he would like to learn about 
 
 # Data Visualization
 This visualization shows how well a certain MEP is aligned with their political party since a significant part of our project involves analyzing individual MEP alignment with their formal party. This bar plot clearly labels the percentage of votes where an MEP either agreed with their party, dissented from their party, or did not vote. In the example shown, MEP Roberto Vannacci is strongly aligned with the Patriots for Europe party, agreeing with almost 80% of the party's votes.
-![data_viz_one](initial_data_viz.png)
+![data_viz_one](initial_data_viz)
 
 
 # First Pass ML Model
