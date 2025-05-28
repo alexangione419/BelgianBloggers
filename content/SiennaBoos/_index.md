@@ -1,13 +1,5 @@
 ---
 title: "Sienna Boos"
-date: 2025-21-05
-draft: false
-description: "Sienna"
-slug: "siennaintro"
-tags: ["authors", "configs", "docs"]
-authors:
-  - "sienna_boos"
-showAuthorsBadges: false
 ---
 
  # Hi, I'm Sienna Boos!

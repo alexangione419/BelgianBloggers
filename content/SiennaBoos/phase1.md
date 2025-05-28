@@ -1,6 +1,6 @@
 ---
 title: "Sienna - Phase I"
-date: 2025-21-05
+date: 2025-05-20
 draft: false
 description: "Sienna's Phase I Blog Post"
 slug: "phaseIsienna"

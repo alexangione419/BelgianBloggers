@@ -53,14 +53,6 @@ As a journalist, Camila’s top priority is reporting fresh and factual informat
 - "As a journalist, I want to know if dissent is growing over time in the European Parliament so I can quantify whether party cohesion is weakening and write articles about this topic."
 - "As a journalist, I want to be able to access verified records for the policies that were voted on so that I can accurately write about them in my articles."
 
-### Camila's Wireframes
-
-This is the page for accessing individual MEP party loyalty records — Camila can choose an MEP and see how well their votes align with their party’s.
-![journalist_wireframe_meps](journalist_wireframe_meps.jpeg)
-
-On this page, Camila can access records for policies that the European Parliament votes on.
-![journalist_wireframe_policies](journalist_wireframe_policies.jpeg)
-
 ## Citizen: Hold MEPs Accountable to their Party Platforms
 
 ### Persona Description:
@@ -195,3 +187,12 @@ This visualization shows how well a certain MEP is aligned with their political 
 
 ![image](homepage_wireframe.jpeg)
 *Homepage: Designed to guide users personas and give an overview about how voting works in the EP*
+
+![image](party_leader.jpeg)
+*Party Leader: Shows the user how cohesive their party is compared to other parties over a chosen time period, provides recommendations for potential party recruits, and shows information about these MEPs.*
+
+![journalist_wireframe_meps](journalist_wireframe_meps.jpeg)
+*Journalist: This is the page for accessing individual MEP party loyalty records — Camila can choose an MEP and see how well their votes align with their party’s.*
+
+![journalist_wireframe_policies](journalist_wireframe_policies.jpeg)
+*On this page, Camila can access records for policies that the European Parliament votes on.*
