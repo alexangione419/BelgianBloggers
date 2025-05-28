@@ -53,6 +53,14 @@ As a journalist, Camila’s top priority is reporting fresh and factual informat
 - "As a journalist, I want to know if dissent is growing over time in the European Parliament so I can quantify whether party cohesion is weakening and write articles about this topic."
 - "As a journalist, I want to be able to access verified records for the policies that were voted on so that I can accurately write about them in my articles."
 
+### Camila's Wireframes
+
+This is the page for accessing individual MEP party loyalty records — Camila can choose an MEP and see how well their votes align with their party’s.
+![journalist_wireframe_meps](journalist_wireframe_meps.jpeg)
+
+On this page, Camila can access records for policies that the European Parliament votes on.
+![journalist_wireframe_policies](journalist_wireframe_policies.jpeg)
+
 ## Citizen: Hold MEPs Accountable to their Party Platforms
 
 ### Persona Description:
@@ -72,7 +80,8 @@ Greg is unsure of what MEPs he should vote for, so he would like to learn about 
 
 
 # Data Visualization
-
+This visualization shows how well a certain MEP is aligned with their political party since a significant part of our project involves analyzing individual MEP alignment with their formal party. This bar plot clearly labels the percentage of votes where an MEP either agreed with their party, dissented from their party, or did not vote. In the example shown, MEP Roberto Vannacci is strongly aligned with the Patriots for Europe party, agreeing with almost 80% of the party's votes.
+![data_viz_one](initial_data_viz.png)
 
 
 # First Pass ML Model
