@@ -78,7 +78,13 @@ This visualization shows how well a certain MEP is aligned with their political 
 
 # First Pass ML Model
 
+Our planned models are as follows:
 
+- A recommender model using cosine similarity to identify MEPs that are likely to/should change parties based on their voting actions.
+
+- A linear regression model predicting party cohesion overtime for each party.
+
+We attempted to create the linear regression model, but there was essentially no correlation between date of vote and percent dissenters for any of the parties. We plan to try add more features to predict party cohesion, such as average age of MEP, country demographics of the party, etc. to see if there is a correlation. A lot of the votes happen on the same day with large gaps between votes, which led to tall vertical lines of points on the graph. This indicates that time is not a sufficient measure to be the only feature examined. We would also like to use data from more than just the last 1000 votes, which we had to resort to as the API was being overloaded and timing out. We will make these changes when fully implementing the ML model.
 
 # Data Models
 
