@@ -1,5 +1,5 @@
 ---
-title: "Project - Phase I"
+title: "Loyalty Lines"
 date: 2025-21-05
 draft: false
 description: "Our Idea"
