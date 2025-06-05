@@ -1,6 +1,6 @@
 ---
 title: "Phase III Individual"
-date: 2025-06-06
+date: 2025-06-6
 draft: false
 description: "Phase 3 individual post"
 slug: "phaseThree"
