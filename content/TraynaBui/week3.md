@@ -1,9 +1,9 @@
 ---
-title: "Phase II"
-date: 2025-06-25
-draft: false 
-description: "Read more about Phase III"
-slug: "week3tray"
+title: "Phase III Individual"
+date: 2025-06-06
+draft: false
+description: "Phase 3 individual post"
+slug: "week3trayna"
 tags: ["authors", "config", "docs"]
 authors: 
     - "traynabui"
