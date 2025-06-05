@@ -1,6 +1,6 @@
 ---
 title: "Phase III Individual"
-date: 2025-06-6
+date: 2025-06-06
 draft: false
 description: "Phase 3 individual post"
 slug: "phaseThree"
@@ -10,7 +10,7 @@ authors:
 showAuthorsBadges : false
 ---
 
-# Phase III Individual Deliverable
+# Phase III Individual Deliverables
 
 For Phase III, my contributions were as follows
 - Designing and writing the API routes 
