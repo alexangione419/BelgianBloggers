@@ -25,8 +25,28 @@ For the time series model, we were originally attempting to use a traditional li
 
 # Modifications to Data Model
 
-# Tables
+## Tables
 
-# REST API Matrix
+Based on the feedback recieved from Phase 2, some new additions were made to our data model.
+First, in our transactional data, we added a table for User Role.
+This table exists in order to more easily assign a user to a disctint role.
+We also further differentiated our analytical data, and have tables for the input data for both models. 
+
+
+
+## REST API Matrix
+
+Here is a look at the REST API endpoints that were added in this Phase. 
+
+![image](restAPIMatrix.jpeg)
+
+Our user routes coorespond to the "authentication" needs of our app, and allow us to access information about the current user
+
+Our mep and party routes coorespond to our needs for data visualizations. Below is a screenshot of an examples of a page that use these calls.
+
+![image](exampleAPICall.jpeg)
+
+Finally, our watchlist routes coorespond to functionality we plan to implement in Phase IV. This functionality being the ability for each persona to generate lists of MEPs they "follow" or "keep track of" in nauanced ways.  
+
 
 provide screenshots of the mocked up app and results of the implemented functionality, including calling the ML model
