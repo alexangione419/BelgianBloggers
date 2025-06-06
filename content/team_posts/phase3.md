@@ -48,5 +48,6 @@ Our mep and party routes coorespond to our needs for data visualizations. Below 
 
 Finally, our watchlist routes coorespond to functionality we plan to implement in Phase IV. This functionality being the ability for each persona to generate lists of MEPs they "follow" or "keep track of" in nauanced ways.  
 
+These are the screenshots of the mocked up app and results of the implemented functionality, including calling the ML model
 
-provide screenshots of the mocked up app and results of the implemented functionality, including calling the ML model
+![image](ML_API_Code.jpeg)

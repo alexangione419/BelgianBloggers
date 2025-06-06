@@ -68,9 +68,6 @@ Because there are so many votes that happen in Parliament, Camila wishes she had
 
 ### Persona Description:
 
-<<<<<<< HEAD
-**Greg Gerborg** is 23 years old. He grew up in Switzerland and lived there for his whole life, but he just moved to the EU. In college, Greg studied mechanical engineering at the University of Zurich, and he possesses sparse knowledge of politics. He cares a lot about science, though, and he doesn’t want to lose funding for all of his cool engineering projects. 
-=======
 **Greg Gerborg** is 23 years old. He grew up in Switzerland his whole life, and he just moved to the EU. In college, Greg studied mechanical engineering at the University of Zurich, so he does not know much about politics. He cares a lot about science, though, and he doesn’t want to lose funding for all of his cool engineering projects. 
 >>>>>>> b2b25de (Pending changes exported from your codespace)
 

@@ -1,5 +1,5 @@
 ---
-title: "Week 1:"
+title: "About Me"
 date: 2025-05-19
 draft: false 
 description: "hey"
