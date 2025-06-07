@@ -32,6 +32,8 @@ First, in our transactional data, we added a table for User Role.
 This table exists in order to more easily assign a user to a disctint role.
 We also further differentiated our analytical data, and have tables for the input data for both models. 
 
+![image](globalModelP3.jpeg)
+
 
 
 ## REST API Matrix
