@@ -33,7 +33,6 @@ Our arcitecture is a fairly standard for a web app connected to a db in the back
 
 ![image](arcitecture.jpeg)
 
-Here is a REST API Matrix that gives an overview of all of our routes. 
 
 
 ## Data Model
