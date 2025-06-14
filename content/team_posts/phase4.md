@@ -33,6 +33,7 @@ The final model uses party and procedure types to predict the percentage of diss
 
 **Assumptions of Logistic Regression:**
 
+
 - **Autocorrelation:** Observations are not dependent based on time.
 
 Our model passes the no autocorrelation assumption because the value of the residuals or their variance do not experience a trend in relating to when the data points were collected relative to one another. This is precisely the reason we had to scrap the time series model. It is shown in the residuals versus order plot:
@@ -43,7 +44,7 @@ Our model passes the no autocorrelation assumption because the value of the resi
 - **Multicollinearity:** Independent variables should not be too highly correlated with each other.
 
 To evaluate multicollinearity, we checked to see if there were specific features highly correlated with others in the data set. Since the variables are categorical, we used the variance inflation factor. While most of the VIFs were low, a few were abnormally high, such as procedure_type_COD and procedure_type_INI. All of the parties had low VIF values.
-                      
+
 - **Requires a large sample size:** 
 
 We didn't talk about this in class, but upon researching logistic regression evaluation a but, we found that in general you need at least 10 cases with the least frequent outcome for each independent variable in your model. Our sample size met this guideline.
