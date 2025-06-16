@@ -26,6 +26,17 @@ The final iteration of our project brought along some updates and changes to our
 ## Final State of Models
 
 ### Cosine Similarity Recommender Model
+In our app, the recommender can be used by party leaders to figure out the top 10 MEPs they should recruit to their party. After indicating their own party, they can input specifications such as a recruit's alignment with their current party, attendance rate, and alignment with the inputter's party. Optionally, an MEP party and/or country can be selected as well. Users can also choose to specify "weights," or feature importance values (%) for each entered metric. After all of the inputs were chosen, the values were taken in as a vector (NumPy Array) and cosine similarity scores were calculated with vectors for all of the current MEPs. A list of MEPs with the top 10 highest cosine similarity scores with the inputted vector were returned.
+
+Originally, we had with a list of over 1000 MEPs to compare the input vectors with, but after taking a closer look, we realized that some of the MEPs in the list had passed away years ago. Thus, we decided to filter the list to only active MEPs to keep the our insights meaningful.
+
+**Model Assumptions**
+- **Normalization of features:** A prime assumption for a recommender system is that all features are normalized when executing the cosine similarity calculations, so all of the inputted numbers for the recommender were on a scale of 0-1. In the front end page for the model, users inputted values between 0-100, and thsoe numbers were divided by 100 before cosine similarity calculations were done. The 0-1 scale was chosen due to the one-hot encoded categorical features, which are represented with either a 0 or a 1.
+
+**Predictive Checks**
+- We ensured that the model was outputting reasonable predictions by analyzing the results from different variations of inputs. For example, when we entered the Patriots for Europe party, the recommended MEP recruits were primarily from the Europe of Sovereign Nations or European Conservatives and Reformists parties. In the European Parliament Hemicycle, these parties sit on either side of the Patriots for Europe party, which means they have similar political alignments.
+
+![rec_output](rec_output.jpeg)
 
 ### Logistic Regression Model
 
