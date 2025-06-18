@@ -1,105 +1,14 @@
-# Data and Software Belgium Blog - Summer 2025
+# Loyalty Lines Project Blog
 
-This repository contains a template for your Team's Blog. It is a Hugo-based blog uses a customized Blowfish theme. Blowfish supports multiple authors.
+## Data and Software in International Government Dialogue - Belgium Summer 2025
 
-## Local Development Setup
+The European Parliament is the heart of politics within the European Union. Our application seeks to provide insight into the inter-party politics and dynamics between Members of the European Parliament (MEPs) and their parties through data visualizations, recommendations, and predictions. With our app, we hope to streamline MEP data by providing exploratory tools for our three user personas: a party leader, a political journalist, and a citizen. All of our app's features use real data to allow for real insights.
 
-**Note:** Everyone needs a GitHub account!
+We documented our process of developing this application through team posts and individual posts. The team posts describe our timelines and thought processes regarding the user personas, machine learning models, database design, and overall project vison. Our individual posts detail each team member's individual contributions to each phase of the project as well as highlights from our Belgium experience!
 
-<!-- ### Prerequisites
+Check out our blog for an inside view of how Loyalty Lines was created and see where our heads were at every step of the way.
 
-- Git
-- Hugo (Extended version) -->
 
-### Installing Hugo
+## Link to our project repository
 
-#### Installing Hugo on macOS
-
-Using Homebrew:
-
-```bash
-brew install hugo
-```
-
-#### Installing Hugo on Windows
-
-1. Download the latest release from [Hugo Releases](https://github.com/gohugoio/hugo/releases)
-2. Extract the downloaded zip file
-3. Add the Hugo executable to your system PATH
-
-### Getting Started
-
-1. One team member needs to fork the repo. We'll refer to this team member as the _blog owner_. **Change the name to your team name if you have one. If not, no better time to come up with one.**
-1. The blog owner should add remaining team members as collaborators in GitHub. you can do this from the repo's Settings Tab > Collaborators and Teams. Each team member will receive an invitation to join the repo via email which they will need to accept.
-1. Clone the team's repository:
-
-```bash
-git clone [repository-url]
-cd
-```
-
-2. Start the development server:
-
-```bash
-hugo server -D
-```
-
-The site will be available at `http://localhost:1313`
-
-## Adding New Authors
-
-1. For each Team Member, update the `data/authors` folder to include a new `.json` file based on the examples included.
-2. For each Team Member, create a new folder in `content`. Inside each, add an `_index.md` file
-
-## Creating New Content
-
-### Basic Post Structure
-
-1. Create a new markdown file in your author directory or in `content/team_posts/`
-2. Use the following frontmatter structure:
-
-```markdown
----
-title: "Your Post Title"
-description: "Brief description of your post"
-date: YYYY-MM-DD
-draft: false
-tags: ["tag1", "tag2"]
-categories: ["category1"]
-authors:
-  - "eric_gerber"
-  - "mark_fontenot"
----
-```
-
-### Markdown Basics
-
-- Use `#` for headings (e.g., `# Heading 1`, `## Heading 2`)
-- Use `*` or `_` for emphasis (`*italic*`, `**bold**`)
-- Create lists with `-` or `1.`
-- Create links with `[text](url)`
-- Create code blocks with triple backticks (```)
-
-## Working with Images and Assets
-
-### Adding Images
-
-1. Place your images in the `assets` directory
-2. Reference images in your markdown using the following syntax:
-
-```markdown
-![Alt text](/your-image.jpg)
-```
-
-### Best Practices for Images
-
-- Use descriptive filenames
-- Optimize images for web use
-- Recommended formats: JPG for photos, PNG for graphics with transparency
-- Keep image sizes reasonable (recommended max width: 1200px)
-
-## Additional Resources
-
-- [Hugo Documentation](https://gohugo.io/documentation/)
-- [Markdown Guide](https://www.markdownguide.org/)
-- [Blowfish Theme Documentation](https://blowfish.page/)
+- [Project Repo](https://github.com/siennaboos/PartyLoyaltyProject?tab=readme-ov-file)
